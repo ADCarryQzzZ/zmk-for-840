@@ -13,7 +13,7 @@
 #
 ---
 include:
-  - arm: weekin_roc
+  - arm: vir72
  # - board: weekin840_m2
  #  shield: weekin_roc
 
